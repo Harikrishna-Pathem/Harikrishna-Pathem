@@ -77,8 +77,10 @@ I’m a passionate frontend developer focused on building **scalable, clean, and
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishna-Pathem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna-Pathem&layout=compact&theme=radical)
+![Harikrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishna-Pathem&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna-Pathem&layout=compact&theme=radical&cache_seconds=1800)
+
 
 ---
 
